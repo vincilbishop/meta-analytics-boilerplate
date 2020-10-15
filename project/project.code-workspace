@@ -4,5 +4,13 @@
             "path": "."
         }
     ],
+    "extensions": {
+        "recommendations": [
+            "EditorConfig.EditorConfig",
+            "esbenp.prettier-vscode",
+            "firsttris.vscode-jest-runner",
+            "ms-vscode.vscode-typescript-tslint-plugin"
+        ]
+    },
     "settings": {}
 }

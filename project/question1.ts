@@ -1,6 +1,8 @@
 import * as _ from 'lodash'
 import * as stats from 'simple-statistics'
 
+// This is Typescript: https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
+
 export class Model {
     constructor(name: string, value: number, time: number) {
         this.name = name
