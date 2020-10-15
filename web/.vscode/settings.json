@@ -1,0 +1,5 @@
+{
+    "jestrunner.configPath": "./project1",
+    "jestrunner.detectYarnPnpJestBin": true,
+    "editor.formatOnSave": true
+}
